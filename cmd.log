@@ -1,0 +1,50 @@
+git config --global user.email "76988085@qq.com"
+git commit -m"初始化项目"
+git push -u origin master
+   /history >> cmd.log
+doskey /history >> cmd.log
+node
+cd E:\Program Files\nodejs\node_global
+npm install express -g
+cd E:\Program Files\nodejs
+npm install express -g
+cd E:\Program Files\nodejs
+npm install express -g
+npm install bower -g
+node
+npm install bower -g
+npm rm -g bower
+npm cache clean
+node -v
+npm -v
+npm install express -g 
+npm install jade -g
+npm install mysql -g
+npm install coffee-script -g
+coffee -v
+npm install -g bower
+git
+bower install bootstrap
+e:\Desktop\shop
+e:
+cd e:\Desktop\shop
+ls
+bower install bootstrap
+npm install express --save
+npm init
+ls
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+bower install bootstrap --save
+npm install express --save
+git init
+git remote add origin https://github.com/wangjuqi/webshop.git
+git push -u origin master
+gut add .
+git add .
+git commit -m"初始化项目"
+git config
+git config --global user.name "wangjuqi"
+git commit -m"初始化项目"
