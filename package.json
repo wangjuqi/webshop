@@ -1,0 +1,28 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "webshop",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangjuqi/wangjuqi.git/webshop"
+  },
+  "keywords": [
+    "web",
+    "html",
+    "js",
+    "node.js"
+  ],
+  "author": "wangjuqi",
+  "license": "MIT",
+  "dependencies":{
+    "express":"^4.13.4"
+  }
+}
